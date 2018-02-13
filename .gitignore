@@ -32,3 +32,7 @@
 *.app
 /fork test/.vs/fork test/v15/Browse.VC.db
 /fork test/.vs/fork test/v15/Browse.VC.opendb
+*.vcxproj
+*.filters
+/Debug/test.tlog
+/Debug
