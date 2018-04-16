@@ -36,3 +36,5 @@
 *.filters
 /Debug/test.tlog
 /Debug
+*.db
+*.opendb
