@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-	//I am editing this file on Visual Studio
-	//This will remain in local commit i guess
+	//Edited online on github.com
+	//This is on master 
 	system ( "pause" );
 	
     return 0;
