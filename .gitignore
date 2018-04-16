@@ -36,3 +36,5 @@
 *.filters
 /Debug/test.tlog
 /Debug
+/.vs/Fork-test/v15/Browse.VC.db
+/.vs/Fork-test/v15/Browse.VC.opendb
